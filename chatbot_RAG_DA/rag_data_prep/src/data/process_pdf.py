@@ -1,4 +1,4 @@
-from PyPDF2 import PdfReader 
+from PyPDF2 import PdfReader # Ensure you have PyPDF2 installed
 import json
 import os
 
