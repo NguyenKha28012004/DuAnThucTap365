@@ -1,4 +1,4 @@
-from PyPDF2 import PdfReader # PyPDF2 để trích xuất văn bản từ PDF
+from PyPDF2 import PdfReader 
 import json
 import os
 
